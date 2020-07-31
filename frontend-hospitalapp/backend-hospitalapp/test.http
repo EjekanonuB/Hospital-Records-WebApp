@@ -1,0 +1,20 @@
+POST http://localhost:8080/api/patients/create HTTP/1.1
+Content-Type: application/json
+
+{
+    "patientname": "Dare Johnson",
+    "hospnum": "012458796",
+    "sex": "Male",
+    "dob": "12/05/1990",
+    "religion": "Christainity",
+    "bloodgrp": "AB" ,
+    "bloodgeno": "AO",
+    "phoneNum": "25698741256" ,
+    "AddOfPatient": "93 Zaria Road, Kaduna",
+    "stateOfOrigin": "Lagos",
+    "locaGovernmentArea": "Surulere",
+    "nextOfKin": "Abraham Kayode",
+    "phoneNumOfnextOfKin": "522154878656" ,
+    "relationshipNextOfKin": "Brother",
+    "AddOfnextOfKin": "34 Okene Street, Benue." 
+}

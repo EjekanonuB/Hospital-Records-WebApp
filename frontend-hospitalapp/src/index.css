@@ -1,0 +1,33 @@
+/* .Home {
+  min-height: 60vh !important;
+} */
+
+.contactPage {
+  min-height: 80vh !important;
+  background-color: #342b47 !important;
+}
+
+.aboutUs {
+  min-height: 80vh !important;
+  margin-top: 100px !important;
+}
+
+.footer {
+  min-height: 20vh !important;
+}
+
+.commonLogin {
+  margin: 200px auto !important;
+}
+
+#commonLogin {
+  background-color: #342b47 !important;
+}
+
+.patientForm {
+  margin-top: 50px !important;
+}
+
+.patientForm2 {
+  margin-top: 100px !important;
+}
